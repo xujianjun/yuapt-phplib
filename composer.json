@@ -2,7 +2,7 @@
     "name": "yuapt/yuapt-phplib",
     "description": "yuapt php library",
     "type": "library",
-    "license": "mit",
+    "license": "MIT",
     "minimum-stability": "stable",
     "require": {}
 }
