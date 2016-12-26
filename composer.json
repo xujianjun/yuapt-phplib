@@ -3,6 +3,6 @@
     "description": "yuapt php library",
     "type": "library",
     "license": "mit",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
