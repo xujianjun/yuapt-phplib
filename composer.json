@@ -1,0 +1,8 @@
+{
+    "name": "yuapt/yuapt-phplib",
+    "description": "yuapt php library",
+    "type": "library",
+    "license": "mit",
+    "minimum-stability": "stable",
+    "require": {}
+}
